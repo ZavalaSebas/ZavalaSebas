@@ -19,7 +19,7 @@ You’ll mostly find:
 
 ### 📬 Reach out
 If it's about code, collabs, or something random:
-- **Email**: zavala.sebas.dev@gmail.com
+- **Email**: sebaszavala120@gmail.com
 
 ---
 
