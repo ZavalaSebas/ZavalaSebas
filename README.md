@@ -8,14 +8,13 @@ Building things on the web. Breaking a few along the way.
 
 ### 💡 Stuff I enjoy
 - Writing code that actually runs
-- Building interfaces that don’t fight users
 - Minimal UIs, clean logic, and the occasional chaos
 
 ### 👨‍💻 Projects
 You’ll mostly find:
 - Blazor experiments
 - Small tools and playgrounds
-- UI experiments & creative components
+- UI experiments & components
 
 ### 📬 Reach out
 If it's about code, collabs, or something random:
