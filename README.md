@@ -1,4 +1,4 @@
-## Hey, it's me — ZavalaSebas 🧪
+## Hey, it's me — ZavalaSebas :)
 
 Building things on the web. Breaking a few along the way.
 
