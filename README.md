@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ZavalaSebas
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Blazor
-- 💞️ I’m looking to collaborate on Blazor
-- 📫 How to reach me via email
+## Hey, it's me — ZavalaSebas 🧪
 
-<!---
-ZavalaSebas/ZavalaSebas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building things on the web. Breaking a few along the way.
+
+### 🛠️ Current focus
+- ⚙️ Exploring: Blazor (yup, still rocking C# on the frontend)
+- 📦 Messing with: APIs, components, UI weirdness
+
+### 💡 Stuff I enjoy
+- Writing code that actually runs
+- Building interfaces that don’t fight users
+- Minimal UIs, clean logic, and the occasional chaos
+
+### 👨‍💻 Projects
+You’ll mostly find:
+- Blazor experiments
+- Small tools and playgrounds
+- UI experiments & creative components
+
+### 📬 Reach out
+If it's about code, collabs, or something random:
+- **Email**: zavala.sebas.dev@gmail.com
+
+---
+
+🧩 Currently rewriting reality... one component at a time.
+
