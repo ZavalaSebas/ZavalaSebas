@@ -2,9 +2,9 @@
 
 <img src="https://media1.tenor.com/m/V9vjpVw3M4gAAAAd/anime-computer.gif" width="100%" />
 
-# Hey there! 👋 I'm Sebas Zavala
+# Hey there! 👋 I'm Sebas Zavala :D
 
-### Full Stack Developer • Blazor • React • Next.js
+### Happy Developer • .NET
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cool+web+applications...;Always+learning+something+new.;Coffee+%2B+Code+%2B+Music.;Creating+things+that+people+use.;Sometimes+I+fix+bugs...;Sometimes+I+create+them." />
 
