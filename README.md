@@ -6,7 +6,7 @@
 
 ### Happy Developer • .NET
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cool+web+applications...;Always+learning+something+new.;Coffee+%2B+Code+%2B+Music.;Creating+things+that+people+use.;Sometimes+I+fix+bugs...;Sometimes+I+create+them." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cool+web+applications...;Trying+something+new.;Sugar+%2B+Code+%2B+Music.;Creating+things+that+I+like.;Sometimes+I+fix+bugs...;Sometimes+I+create+them." />
 
 <p>
 
@@ -25,7 +25,7 @@
 ```csharp
 public class Sebas
 {
-    public string Name => "Sebas Zavala";
+    public string Name => "Sebas Zavala :)";
 
     public string Role => "Happy Developer";
 
@@ -65,51 +65,40 @@ public class Sebas
 
 </div>
 
----
-
-# 🛠 Current Focus
-
-| 🌱 Learning | 🚀 Building |
-|-------------|------------|
-| GitHub Actions | Workflow Automations |
-| .NET | Desktop Apps |
-| WPF | Useful Tools |
-| Clean Architecture | Better Software |
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧩 Blazor Components | Reusable UI Components |
-| 🖥️ WPF Apps | Desktop Utilities |
-| 🌐 Web Apps | Modern .NET Websites |
-| ⚡ APIs | REST APIs & Integrations |
-| 🛠️ Random Tools | Because why not? |
-
----
-
-# 🎵 Outside of Coding
+## 🚀 What I'm Up To
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### Music
+### 🛠 Current Focus
 
-- 🎹 Piano
-- 🎸 Guitar
-- 🎧 Lo-fi
+- 🌱 Learning GitHub Actions
+- 🖥️ Building Desktop Apps
+- ⚙️ WPF
+- 🧱 Clean Architecture
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### Life
+### 🚀 Featured Projects
 
+- 🧩 Blazor Components
+- 🖥️ WPF Utilities
+- 🌐 Web Applications
+- ⚡ REST APIs
+- 🛠️ Developer Tools
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎵 Outside of Coding
+
+- 🎹 Piano
+- 🎸 Guitar
 - 🎮 Gaming
 - 📚 Manga
 - 💙 Loving People
@@ -118,10 +107,7 @@ public class Sebas
 </td>
 
 </tr>
-
 </table>
-
----
 
 # 📈 GitHub Journey
 
