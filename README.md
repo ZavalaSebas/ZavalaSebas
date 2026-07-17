@@ -17,14 +17,14 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 About Me :)
 
 ```csharp
 public class Sebas
 {
-    public string Name => "Sebas Zavala";
+    public string Name => "Sebas Zavala :)";
 
-    public string Role => "Full Stack Developer";
+    public string Role => "Developer";
 
     public string[] Languages =>
     [
@@ -36,15 +36,11 @@ public class Sebas
     public string[] Frontend =>
     [
         "Blazor",
-        "React",
-        "Next.js"
     ];
 
     public string[] Backend =>
     [
         ".NET",
-        "Firebase",
-        "Azure"
     ];
 
     public string[] Interests =>
@@ -66,7 +62,7 @@ public class Sebas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,html,css,firebase,azure,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,js,html,css,firebase,azure,github,vscode"/>
 
 </div>
 
@@ -78,10 +74,8 @@ public class Sebas
 
 | 🚀 Learning | ⚡ Building |
 |-------------|------------|
-| Blazor | Full Stack Apps |
-| .NET | React Projects |
-| Azure | Next.js Websites |
-| Firebase | APIs & Components |
+| GithubActions | Workflows Automatations |
+| .NET | WPF Projects |
 
 </div>
 
@@ -94,7 +88,7 @@ public class Sebas
 | 🧩 Blazor Components | Reusable UI components |
 | 🎮 React Experiments | Interactive web apps & games |
 | 🛍 Next.js Apps | Modern websites |
-| 🔥 Firebase Integrations | Auth, Firestore & Hosting |
+| 🛍 .NET Desktop Apps | Tools |
 | ⚡ Utilities | QR generators & developer tools |
 
 ---
@@ -110,8 +104,6 @@ public class Sebas
 
 - Piano
 - Guitar
-- Lo-fi while coding
-- Learning new songs
 
 </td>
 
@@ -120,9 +112,9 @@ public class Sebas
 ### 🎮 Fun
 
 - Video Games
-- UI Experiments
-- Reading Tech Articles
 - Random Side Projects
+- Loving People
+- Reading Manga
 
 </td>
 
