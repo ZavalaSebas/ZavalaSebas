@@ -32,8 +32,6 @@ public class Sebas
     public string[] Languages =>
     [
         "C#",
-        "JavaScript",
-        "TypeScript"
     ];
 
     public string[] Technologies =>
@@ -41,8 +39,6 @@ public class Sebas
         ".NET",
         "Blazor",
         "GitHub Actions",
-        "Azure",
-        "Firebase"
     ];
 
     public string[] Hobbies =>
@@ -65,7 +61,7 @@ public class Sebas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,js,html,css,firebase,azure,github,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,maui,nextjs,js,html,css,firebase,azure,github,git,vscode"/>
 
 </div>
 
