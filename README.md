@@ -1,7 +1,7 @@
 # Hi there, I'm Sebas Zavala! 👋
 
 <p align="center">
-  <img src="https://giphy.com" width="300" alt="Coding GIF">
+  <img src="https://githubusercontent.com" alt="Laptop" width="160" height="160" />
 </p>
 
 <p align="center">
