@@ -1,81 +1,215 @@
-# Hi there, I'm Sebas Zavala! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Laptop" width="160" height="160" />
+<img src="https://media1.tenor.com/m/V9vjpVw3M4gAAAAd/anime-computer.gif" width="100%" />
+
+# Hey there! 👋 I'm Sebas Zavala
+
+### Full Stack Developer • Blazor • React • Next.js
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cool+web+applications...;Always+learning+something+new.;Coffee+%2B+Code+%2B+Music.;Creating+things+that+people+use.;Sometimes+I+fix+bugs...;Sometimes+I+create+them." />
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=58A6FF"/>
+
 </p>
 
-<p align="center">
-  <strong>Building things on the web. Breaking a few along the way.</strong>
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-</p>
+</div>
 
 ---
 
-### 🛠️ Current Focus
+# 🚀 About Me
+
+```csharp
+public class Sebas
+{
+    public string Name => "Sebas Zavala";
+
+    public string Role => "Full Stack Developer";
+
+    public string[] Languages =>
+    [
+        "C#",
+        "JavaScript",
+        "TypeScript"
+    ];
+
+    public string[] Frontend =>
+    [
+        "Blazor",
+        "React",
+        "Next.js"
+    ];
+
+    public string[] Backend =>
+    [
+        ".NET",
+        "Firebase",
+        "Azure"
+    ];
+
+    public string[] Interests =>
+    [
+        "🎹 Piano",
+        "🎸 Guitar",
+        "🎮 Gaming",
+        "💡 Building cool stuff"
+    ];
+
+    public string Motto =>
+        "If I can't find it, I'll build it.";
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,html,css,firebase,azure,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+# 🛠 Currently Working On
+
+<div align="center">
+
+| 🚀 Exploring | ⚡ Building |
+|--------------|------------|
+| Blazor Components | Web Apps |
+| .NET | React Projects |
+| Azure | Next.js Apps |
+| Firebase | APIs |
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🚀 **Blazor Components** | Reusable UI components for .NET applications |
+| 🎮 **React Experiments** | Interactive web apps and browser games |
+| 🛍 **Next.js Projects** | Modern websites and affiliate pages |
+| 🔥 **Firebase Apps** | Authentication, Firestore & Hosting |
+| 🧩 **Utilities** | QR generators, APIs and random tools |
+
+</div>
+
+---
+
+# 🎵 Beyond Coding
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Exploring</h4>
-      <ul>
-        <li><strong>Blazor</strong> (yup, still rocking C# on the frontend)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 Messing with</h4>
-      <ul>
-        <li>APIs, components, and UI weirdness</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ Playing with</h4>
-      <ul>
-        <li>Firebase & Azure</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎹 Music
+
+- Piano
+- Guitar
+- Discovering new music
+- Coding with playlists
+
+</td>
+
+<td width="50%">
+
+### 🎮 Fun
+
+- Gaming
+- UI Experiments
+- Reading Tech Articles
+- Building random ideas
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-### 💡 Stuff I Enjoy
+# 📊 GitHub Analytics
 
-- 💻 **Writing code** that actually runs.
-- 🎨 **Minimal UIs**, clean logic, and the occasional chaos.
-- 🎵 **Mixing personal interests** (music, games, articles) with web experiments.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 👨‍💻 Tech Stack & Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="left">
-  <img src="https://shields.io" alt="Blazor">
-  <img src="https://shields.io" alt="C#">
-  <img src="https://shields.io" alt="React">
-  <img src="https://shields.io" alt="Next.js">
-  <img src="https://shields.io" alt="Firebase">
-  <img src="https://shields.io" alt="Azure">
-</p>
+</div>
 
-You’ll mostly find me building:
-* 🚀 **Blazor experiments** and frontend playgrounds.
-* 🎮 **React tools**, games, and interactive UI demos.
-* 🛍️ **Next.js apps** (affiliate sites, content pages).
-* 🔐 **Firebase integrations** (databases, auth, hosting).
-* 🛠️ **Small tools** and utilities (like QR generators).
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📬 Reach Out
+# 🏆 GitHub Trophies
 
-If it's about code, collabs, or just something random:
+<div align="center">
 
-[![Email](https://shields.io)](mailto:sebaszavala120@gmail.com)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
 
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ☕ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sebaszavala120@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=120&section=footer"/>
+
+</div>
