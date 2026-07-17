@@ -125,15 +125,6 @@ public class Sebas
 
 # 📈 GitHub Journey
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZavalaSebas&show_icons=true&rank_icon=github&theme=github_dark_dimmed&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavalaSebas&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -153,35 +144,9 @@ public class Sebas
 
 ---
 
-# ⭐ Favorite Repositories
-
 <div align="center">
-
-<!-- Cambia los nombres por tus repos favoritos -->
-
-<a href="https://github.com/ZavalaSebas/REPO1">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ZavalaSebas&repo=REPO1&theme=github_dark_dimmed"/>
-</a>
-
-<a href="https://github.com/ZavalaSebas/REPO2">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ZavalaSebas&repo=REPO2&theme=github_dark_dimmed"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚔️
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="130">
-
-## HYAAAA!!
-
-*"..."*
-
-— Link
 
 </div>
 
