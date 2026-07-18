@@ -157,7 +157,7 @@ public class Sebas
 <div align="center">
 
 ### 💙 Thanks for visiting!
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7TIEJ8)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:0D1117&height=120&section=footer"/>
 
 </div>
